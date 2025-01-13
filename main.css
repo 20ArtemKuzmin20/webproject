@@ -1,45 +1,43 @@
-    <style>h2 {
-        color: rgb(0, 0, 0);
-        font-size: 40px;
-      }
-      p{
-        font-size: 24px;
-      }
-      h2 {
-        color: rgb(0, 0, 0);
-        font-size: 20px;
-      }
-      h4{
-        color: rgb(0, 0, 0);
-        font-size:20px;
-      }
-      h3{
-        color: rgb(0, 0, 0);
-        font-size:20px;
-      }
-    
-      .wrapper {
-        height: 1111px;
-      }
-      .footer {
-       background-color: #aac5fa;
-        position:fixed;
-         right:0;
-        bottom:0;
-        width:99%;
-        height: 101px; 
-       
-      }
-       
-      .text {
-        float:none;
-        font-size:29px;
-        word-spacing:40px;
-        padding-left:29px;
-      }
-    
-    a {
-        white-space: nowrap;
-      }
+h2 {
+  color: rgb(0, 0, 0);
+  font-size: 40px;
+}
+p{
+  font-size: 24px;
+}
+h2 {
+  color: rgb(0, 0, 0);
+  font-size: 20px;
+}
+h4{
+  color: rgb(0, 0, 0);
+  font-size:20px;
+}
+h3{
+  color: rgb(0, 0, 0);
+  font-size:20px;
+}
 
-    </style>
+.wrapper {
+  height: 1111px;
+}
+.footer {
+ background-color: #aac5fa;
+  position:fixed;
+   right:0;
+  bottom:0;
+  width:99%;
+  height: 101px; 
+ 
+}
+ 
+.text {
+  float:none;
+  font-size:29px;
+  word-spacing:40px;
+  padding-left:29px;
+}
+
+a {
+  white-space: nowrap;
+}
